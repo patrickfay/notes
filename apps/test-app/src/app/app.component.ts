@@ -1,8 +1,9 @@
 import { Component } from '@angular/core';
+import { NdsButtonComponent } from '@notes/notes-design-system';
 
 @Component({
   standalone: true,
-  imports: [],
+  imports: [NdsButtonComponent],
   selector: 'notes-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.scss'],
