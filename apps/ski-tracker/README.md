@@ -1,0 +1,1 @@
+This is a ski tracker app, it'll be used to take notes on your day and record stats about your ski day. This will be similar to the existing dinosaur of an AngularJs app `patrickfay/ski-tracker`. Angular and JS???? Who's ever even heard of that?? I bet tiktok doesn't even know about it!
